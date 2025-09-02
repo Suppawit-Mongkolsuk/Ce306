@@ -81,3 +81,5 @@ let fruits = ["a","b","c"];
 for (let i = 0; i < fruits.length; i++){
     console.log(`fruit ${i + 1}: ${fruit[i]}`)
 } 
+
+console.log("hello")
